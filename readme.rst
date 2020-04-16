@@ -2,8 +2,8 @@
 Apa yang dipelajari?
 *********
 
--  RESTful API 
--  Method GET, POST, PUT, DELETE
--  Basic Auth Login
 -  Key Token
+-  RESTful API
 -  Limit Request
+-  Basic Auth Login
+-  Method GET, POST, PUT, DELETE
